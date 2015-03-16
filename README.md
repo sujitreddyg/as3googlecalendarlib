@@ -1,6 +1,6 @@
 Automatically exported from https://code.google.com/p/as3googlecalendarlib/
 
-ActionScript3 library for Google Calendar API.
+ActionScript 3 (AS3) library for Google Calendar API.
 
 Note: API Documentation and Code Samples can be found in docs folder of this repo.
 
