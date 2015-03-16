@@ -17,3 +17,6 @@ Features implemented:
 11.	Updating events 
 12.	Deleting events 
 13.	Reminders and Notifications
+14.	
+
+API Documentation and Code Samples can be found in docs folder of this repo.
